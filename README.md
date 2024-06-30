@@ -2,8 +2,9 @@
 
 I'm a Sotfware Engineering student passionate about programming and eager to learn new things.
 
-<img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a> 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtncWp6aDUzcjBvNTdpZGxlNXd4ZmF5bTZiNGI1aWp2NHdxaDRiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif">
+</p>
 
 #### 👨‍💻 About me:
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
@@ -23,9 +24,9 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 #### 🧮 Stats:
 <div align="center>
  <a href="https://github.com/xJoelFMRx/xJoelFMRx"> 
- <img src="https://github-readme-stats.vercel.app/api?username=xJoelFMRx&show_icons=true&locale=en&theme=dark" alt="xJoelFMRx" height="180em"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoelFMRx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xJoelFMRx" height="180em"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=xJoelFMRx&theme=dark&hide_border=false)<br/>" alt="xJoelFMRx" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=xjoelfmrx&show_icons=true&locale=en&theme=dark" alt="xjoelfmrx" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoelfmrx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xjoelfmrx" height="180em"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjoelfmrx&theme=dark&hide_border=false)<br/>" alt="xjoelfmrx" height="180em"/>
  </a>
 </div>
 
@@ -33,7 +34,7 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 [![trophy](https://github-profile-trophy.vercel.app/?username=xJoelFMRx&theme=monokai)](https://github.com/xJoelFMRx/github-profile-trophy)
 
 #### 📫 Contact me: 
-[![Discord](https://img.shields.io/badge/-joelfmr%235865F2-404EED?style=for-the-badge&logo=discord&logoColor=white)]
+![Discord](https://img.shields.io/badge/-joelfmr%23-404EED?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joelfmr/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/xJoelFMRx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://joelfmr637@gmail.com/)
@@ -49,4 +50,3 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 </p>
 
 ------
-
