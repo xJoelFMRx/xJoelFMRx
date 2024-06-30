@@ -21,6 +21,14 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
   </a>
 </p>
 
+#### 🌐 Browsers:  
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
 #### 🧮 Stats:
 <div align="center>
  <a href="https://github.com/xJoelFMRx/xJoelFMRx"> 
@@ -34,7 +42,7 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 [![trophy](https://github-profile-trophy.vercel.app/?username=xJoelFMRx&theme=monokai)](https://github.com/xJoelFMRx/github-profile-trophy)
 
 #### 📫 Contact me: 
-![Discord](https://img.shields.io/badge/-joelfmr%23-404EED?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-joelfmr-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joelfmr/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/xJoelFMRx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://joelfmr637@gmail.com/)
@@ -43,7 +51,6 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 <p align="center">
 	<a href="https://github.com/xJoelFMRx">
 		<img src="https://komarev.com/ghpvc/?username=xJoelFMRx&label=Profile%20views&color=0e75b6&style=flat" alt="xJoelFMRx" />
-	</a>
 	<a href="https://github.com/xJoelFMRx">
 		<img src="https://img.shields.io/github/followers/xJoelFMRx?label=Followers" alt="xJoelFMRx" />
 	</a>
