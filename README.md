@@ -51,6 +51,7 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 <p align="center">
 	<a href="https://github.com/xJoelFMRx">
 		<img src="https://komarev.com/ghpvc/?username=xJoelFMRx&label=Profile%20views&color=0e75b6&style=flat" alt="xJoelFMRx" />
+	</a>
 	<a href="https://github.com/xJoelFMRx">
 		<img src="https://img.shields.io/github/followers/xJoelFMRx?label=Followers" alt="xJoelFMRx" />
 	</a>
