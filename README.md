@@ -30,9 +30,9 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
 #### 🧮 Stats:
-![](https://github-readme-stats.vercel.app/api?username=xjoelfmrx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xjoelfmrx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xjoelfmrx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xJoelFMRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xJoelFMRx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xJoelFMRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=xJoelFMRx&theme=monokai)](https://github.com/xJoelFMRx/github-profile-trophy)
