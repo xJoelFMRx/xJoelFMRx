@@ -33,6 +33,7 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 <div align="center>
  <a href="https://github.com/xJoelFMRx/xJoelFMRx"> 
  <img src="https://github-readme-stats.vercel.app/api?username=xjoelfmrx&show_icons=true&locale=en&theme=dark" alt="xjoelfmrx" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoelfmrx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xjoelfmrx" height="180em"/>	
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjoelfmrx&theme=dark&hide_border=false)<br/>" alt="xjoelfmrx" height="180em"/>
  </a>
 </div>
