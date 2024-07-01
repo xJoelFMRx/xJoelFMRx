@@ -30,9 +30,13 @@ I'm a Sotfware Engineering student passionate about programming and eager to lea
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
 #### 🧮 Stats:
-![](https://github-readme-stats.vercel.app/api?username=xJoelFMRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xJoelFMRx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xJoelFMRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center>
+ <a href="https://github.com/xJoelFMRx/xJoelFMRx"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=xjoelfmrx&show_icons=true&locale=en&theme=dark" alt="xjoelfmrx" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoelfmrx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xjoelfmrx" height="180em"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjoelfmrx&theme=dark&hide_border=false)<br/>" alt="xjoelfmrx" height="180em"/>
+ </a>
+</div>
 
 #### 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=xJoelFMRx&theme=monokai)](https://github.com/xJoelFMRx/github-profile-trophy)
