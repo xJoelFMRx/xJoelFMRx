@@ -1,6 +1,6 @@
 <h3> Hi! , I'm Joel <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40" /></h3>
 
-I'm a Sotfware Engineering student passionate about programming and eager to learn new things.
+I'm a Sotfware Engineering Student passionate about programming and eager to learn new things.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtncWp6aDUzcjBvNTdpZGxlNXd4ZmF5bTZiNGI1aWp2NHdxaDRiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif">
