@@ -9,7 +9,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 #### 👨‍💻 About me:
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Software Engineering at the Peruvian University of Applied Sciences (UPC).
-- 🌱 I'm on track for learning more about Python, Artificial Intelligence, Cloud Architecture and Web Development.
+- 🌱 I'm on track for learning more about Python, Artificial Intelligence, Cloud Architecture, Web Development and Cibersecurity.
 
 #### 🎧 My Music:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22dwiqiuakohkdf4yi3tx6ugi)
