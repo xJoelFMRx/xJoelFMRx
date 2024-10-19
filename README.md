@@ -8,6 +8,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 
 #### 👨‍💻 About me:
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🗣️ I speak Spanish, but I can understand and speak English too.
 - 🎓 I'm currently studying Software Engineering at the Peruvian University of Applied Sciences (UPC).
 - 🌱 I'm on track for learning more about Python, Artificial Intelligence, Cloud Architecture, Web Development and Cibersecurity.
 
