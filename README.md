@@ -10,7 +10,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🗣️ I speak Spanish, but I can understand and speak English too.
 - 🎓 I'm currently studying Software Engineering at the Peruvian University of Applied Sciences (UPC).
-- 🌱 I'm on track for learning more about Python, Cloud Architecture, Web Development and Cibersecurity.
+- 🌱 I'm on track for learning more about Cloud Architecture, Web Development and Cibersecurity.
 
 #### 🎧 My Music:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22dwiqiuakohkdf4yi3tx6ugi)
@@ -18,7 +18,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 #### 🧰 Languages and Tools:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,github,vscode,visualstudio,windows,linux,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,github,vscode,visualstudio,windows,linux,md" />
   </a>
 </p>
 
