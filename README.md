@@ -18,7 +18,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 #### 🧰 Languages and Tools:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,github,vscode,visualstudio,windows,linux,md" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,html,css,js,github,vscode,visualstudio,windows,linux,md" />
   </a>
 </p>
 
