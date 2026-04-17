@@ -43,6 +43,7 @@ I'm a Sotfware Engineering Student passionate about programming and eager to lea
 #### 📫 Contact me: 
 ![Discord](https://img.shields.io/badge/-joelfmr-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joelfmr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelfmr/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/xJoelFMRx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://joelfmr637@gmail.com/)
 
