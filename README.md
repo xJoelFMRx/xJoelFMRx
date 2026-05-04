@@ -1,4 +1,4 @@
-<h3> Hi! , I'm Joel <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40" /></h3>
+<h3> Hi! , I'm gay Joel <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40" /></h3>
 
 I'm a Sotfware Engineering Student passionate about programming and eager to learn new things.
 
